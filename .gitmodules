@@ -1,0 +1,3 @@
+[submodule "hmap"]
+	path = hmap
+	url = https://github.com/imaginarygarage/HMAP.git
